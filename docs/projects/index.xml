@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>-d/projects/</link>
+    <link>https://seancalida.github.io/project-site/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2018 19:41:28 -0500</lastBuildDate>
     
-	<atom:link href="-d/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seancalida.github.io/project-site/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hitting Efficiency Tracker</title>
-      <link>-d/projects/hittingefficiencytracker/</link>
+      <link>https://seancalida.github.io/project-site/projects/hittingefficiencytracker/</link>
       <pubDate>Tue, 30 Jan 2018 19:41:28 -0500</pubDate>
       
-      <guid>-d/projects/hittingefficiencytracker/</guid>
+      <guid>https://seancalida.github.io/project-site/projects/hittingefficiencytracker/</guid>
       <description>An executable jar file that allows the user to take the Hitting Efficiency statistics of players during a game and display it mid and post game.
 To see source code or download jar file click here</description>
     </item>

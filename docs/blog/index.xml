@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Introduction</title>
-    <link>-d/blog/</link>
+    <link>https://seancalida.github.io/project-site/blog/</link>
     <description>Recent content in Blogs on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jan 2018 15:17:16 -0500</lastBuildDate>
     
-	<atom:link href="-d/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seancalida.github.io/project-site/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hitting Stat Tracker (Volleyball)</title>
-      <link>-d/blog/offense-stat-tracker/</link>
+      <link>https://seancalida.github.io/project-site/blog/offense-stat-tracker/</link>
       <pubDate>Tue, 30 Jan 2018 15:17:16 -0500</pubDate>
       
-      <guid>-d/blog/offense-stat-tracker/</guid>
+      <guid>https://seancalida.github.io/project-site/blog/offense-stat-tracker/</guid>
       <description>As a volleyball player and a coder, I have always found it annoying that there are no satisfying apps that take volleyball statistics, at least the ones that I have found. Like any sport, taking statistics in volleyball is important to make several in-game and post-game decisions. So in the pursuit of making stat-taking easier, I have made a java executable that takes hitting efficiency statistics.
 In volleyball, hitting efficiency is the (kill count - error count) divided by the total attempts and finally multiplied by a thousand.</description>
     </item>
     
     <item>
       <title>First Blog Post</title>
-      <link>-d/blog/firstpost/</link>
+      <link>https://seancalida.github.io/project-site/blog/firstpost/</link>
       <pubDate>Tue, 30 Jan 2018 14:36:01 -0500</pubDate>
       
-      <guid>-d/blog/firstpost/</guid>
+      <guid>https://seancalida.github.io/project-site/blog/firstpost/</guid>
       <description>Hello and welcome to my personal blog! I plan to use this blog and website to document any future projects that I may have. I tend to participate in a lot of robotics and coding competitions as well as personal projects, so I thought to myself, why not make a blog about it?
 No there will be no tutorials of any sort but feel free to contact me for any questions and or suggestions.</description>
     </item>
