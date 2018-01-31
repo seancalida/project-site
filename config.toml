@@ -1,4 +1,4 @@
-baseurl             = "https://seancalida.github.io/resumeSite/"   # Your domain name. Must end with "/"
+baseurl             = "https://seancalida.github.io/project-site/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "Introduction"
 theme               = "introduction"
