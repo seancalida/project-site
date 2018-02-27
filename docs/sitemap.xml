@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seancalida.github.io/project-site/projects/facelaugh/</loc>
+    <lastmod>2018-02-26T21:22:41-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seancalida.github.io/project-site/projects/hittingefficiencytracker/</loc>
     <lastmod>2018-01-30T19:41:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seancalida.github.io/project-site/blog/vthacks/</loc>
+    <lastmod>2018-02-26T20:52:01-05:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +39,7 @@
   
   <url>
     <loc>https://seancalida.github.io/project-site/blog/</loc>
-    <lastmod>2018-01-30T15:17:16-05:00</lastmod>
+    <lastmod>2018-02-26T20:52:01-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,13 +50,13 @@
   
   <url>
     <loc>https://seancalida.github.io/project-site/</loc>
-    <lastmod>2018-01-30T19:41:28-05:00</lastmod>
+    <lastmod>2018-02-26T21:22:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://seancalida.github.io/project-site/projects/</loc>
-    <lastmod>2018-01-30T19:41:28-05:00</lastmod>
+    <lastmod>2018-02-26T21:22:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   

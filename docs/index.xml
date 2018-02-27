@@ -6,10 +6,21 @@
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2018 19:41:28 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 21:22:41 -0500</lastBuildDate>
     
 	<atom:link href="https://seancalida.github.io/project-site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FaceLaugh</title>
+      <link>https://seancalida.github.io/project-site/projects/facelaugh/</link>
+      <pubDate>Mon, 26 Feb 2018 21:22:41 -0500</pubDate>
+      
+      <guid>https://seancalida.github.io/project-site/projects/facelaugh/</guid>
+      <description>An online face-time game that utilizes WebRTC features, peer to peer connections, and Microsoft cognitive services.
+To play the game click here
+To see source code click here</description>
+    </item>
     
     <item>
       <title>Hitting Efficiency Tracker</title>
@@ -19,6 +30,16 @@
       <guid>https://seancalida.github.io/project-site/projects/hittingefficiencytracker/</guid>
       <description>An executable jar file that allows the user to take the Hitting Efficiency statistics of players during a game and display it mid and post game.
 To see source code or download jar file click here</description>
+    </item>
+    
+    <item>
+      <title>Spring 2018 Hackathon</title>
+      <link>https://seancalida.github.io/project-site/blog/vthacks/</link>
+      <pubDate>Mon, 26 Feb 2018 20:52:01 -0500</pubDate>
+      
+      <guid>https://seancalida.github.io/project-site/blog/vthacks/</guid>
+      <description>I just finished my first Hackathon! Drank a lot of Monsters, cried a little bit, looked at endless stack-overflow discussion pages, and most importantly I made some hacker friends and had a lot of fun. It was a safe environment to nerd out to the max. I learned a lot more about JavaScript, CSS, Microsoft cognitive services, and WebRTC.
+Check out my submission in the Project section!</description>
     </item>
     
     <item>
@@ -57,7 +78,7 @@ No there will be no tutorials of any sort but feel free to contact me for any qu
       
       <guid>https://seancalida.github.io/project-site/about/</guid>
       <description> A personal website showcasing coding projects by Sean Calida.
-Skills  Java (Advanced) C++ (Advanced) R (Advanced) MATLAB (Experienced) OpenMP (Advanced) Python (Experienced) SQL (Experienced) HTML (Experienced) C (Experienced)  </description>
+Skills  Java (Advanced) C++ (Advanced) R (Advanced) MATLAB (Experienced) OpenMP (Advanced) Python (Experienced) SQL (Experienced) HTML (Experienced) C (Experienced) JavaScript (Advanced)  </description>
     </item>
     
   </channel>
