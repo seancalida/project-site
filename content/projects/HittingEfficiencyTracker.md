@@ -3,7 +3,7 @@ title: "Hitting Efficiency Tracker"
 date: 2018-01-30T19:41:28-05:00
 image: "/img/StatProject.jpg"
 external_link: ""
-weight: 1
+weight: 2
 draft: true
 ---
 

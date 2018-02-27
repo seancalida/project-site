@@ -13,6 +13,7 @@ A personal website showcasing coding projects by **Sean Calida**.
 * MATLAB (Experienced)
 * OpenMP (Advanced)
 * Python (Experienced)
-* Sequel (Experienced)
+* SQL (Experienced)
 * HTML (Experienced)
 * C (Experienced)
+* JavaScript (Advanced)
