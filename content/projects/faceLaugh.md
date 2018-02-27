@@ -1,7 +1,7 @@
 ---
 title: "You Laugh You Lose Face-Time"
 date: 2018-02-26T21:22:41-05:00
-image: "/img/faceGame.JPG"
+image: "/img/faceGame2.JPG"
 external_link: ""
 weight: 1
 draft: true
